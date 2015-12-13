@@ -3,7 +3,7 @@
 
 This is a project for my Operating System class, Computer Engineering, Kasetsart University.
 
-The assignments are comming from a book "Operating System Concepts, 9th Edition", Chapter 3 - Process Concept, Project 2 - Linux Kernel Module for Listing Tasks.
+The assignments are from a book "Operating System Concepts, 9th Edition", Chapter 3 - Process Concept, Project 2 - Linux Kernel Module for Listing Tasks.
 
 ### Part I Assignment  
 Design a kernel module that iterates through all tasks in the system using the `for_each_process()` macro. Make the contents appear in the kernel log buffer.
